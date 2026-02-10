@@ -1,4 +1,6 @@
 # Customer-Data-Analysis
-## Dashboard
+## 📊 Customer Dashboard (Power BI)
 
-Screenshot 2026-02-10 182649.png
+Below is the interactive customer segmentation dashboard created using Power BI:
+
+![Customer Dashboard](Customer%20Dashbord.png)
